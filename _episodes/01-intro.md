@@ -12,4 +12,28 @@ keypoints:
 training: http://swcarpentry.github.io/instructor-training
 ---
 
-# Start
+# Overview
+
+## What is Data Management Planning?
+
+-
+-
+-
+
+## Benefits of Data Management Planning
+-
+-
+-
+-
+-
+
+## Case Study
+
+(note: 4 different case studies to choose 1 from list releveant to audience e.g.:)
+-What if i change institutions?
+-What if funding runs out?
+-
+-
+
+
+
