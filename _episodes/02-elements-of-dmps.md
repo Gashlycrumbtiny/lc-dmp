@@ -1,6 +1,6 @@
 ---
-title: "GitHub, Markdown, and Jekyll"
-teaching: 10
+title: "Elements of Data Management Planning"
+teaching: 40
 exercises: 0
 questions:
 - "How are pages published?"
