@@ -12,8 +12,10 @@ keypoints:
 - "Lessons are written in Markdown."
 - "Jekyll translates the files in the gh-pages branch into HTML for viewing."
 - "The site's configuration is stored in _config.yml."
+- 
+# Elements of Data Management Planning
 
-# DMPs describe data management throughout the research lifecycle:
+## DMPs describe data management throughout the research lifecycle:
 
 -What data will you collect or create?
 -How will the data be collected or created?
